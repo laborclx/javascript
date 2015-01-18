@@ -1,4 +1,4 @@
-Enter file contents here
+来自<http://www.cnblogs.com/ilexcai/archive/2011/08/20/2147173.html>
 ##函数和方法的差异
 1.getYear()方法
 ```js
